@@ -11,12 +11,16 @@ aplicación WidgetsDemo en Jetpack Compose muestra una interfaz centrada en el u
         <img src="./screenshots/1.png" alt="Vista de la aplicación" style="border: 2px solid black; border-radius: 8px;" width="350"/>
         <figcaption>Vista de la aplicación al iniciar</figcaption>
     </figure>
+
+
     <figure>
         <img src="./screenshots/2.png" alt="Vista de la aplicación" style="border: 2px solid black; border-radius: 8px;" width="350"/>
         <figcaption>Marcamos todos los widgets para darles valor</figcaption>
     </figure>
+
+
     <figure>
-        <img src="./screenshots/3.png" alt="Vista de la aplicación" style="border: 2px solid black; border-radius: 8px;" width="350"/>
+        <img src="./screenshots/3.png" alt="Vista de la aplicación" style="border: 2px solid black; border-radius: 8px;" width="500"/>
         <figcaption>Rotamos el dispositivo y los valores declarados Remember se pierden</figcaption>
     </figure>
 </p>
